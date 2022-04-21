@@ -3,5 +3,6 @@
 <mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
+	<flow name="test3Flow1" doc:id="89e7ef79-3db4-474f-94ef-c14901cdd0a9" />
 	<flow name="test3Flow" doc:id="990a6dcd-58bf-4fa3-a861-77b78eefd1cd" />
 </mule>
